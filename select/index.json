@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "himawari",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T05:41:35.029830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Himawari",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Himawari_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Taiyou To Himawari Mawari Nanka Kinisezuni Summer",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/02_Taiyou_To_Himawari_Mawari_Nanka_Kinisezuni_Summer_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "himawari",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_himawari_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "himawari",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_himawari_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Himawari",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Himawari_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Taiyou to Himawari, Mawari Nanka Ki ni Sezuni... Natsu.",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/06_Taiyou_to_Himawari,_Mawari_Nanka_Ki_ni_Sezuni..._Natsu._ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Himawari ga Saku Yotei [ヒマワリが咲く予定]",
+      "artist": "NakamuraEmi",
+      "has_synced": false,
+      "path": "select/07_Himawari_ga_Saku_Yotei_[ヒマワリが咲く予定]_NakamuraEmi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Himawari",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_Himawari_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Asuiro Himawari",
+      "artist": "Haruka Tomatsu",
+      "has_synced": false,
+      "path": "select/09_Asuiro_Himawari_Haruka_Tomatsu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Himawari",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/10_Himawari_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Himawari No Yakusoku",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/11_Himawari_No_Yakusoku_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HimAWArI",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/12_HimAWArI_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Himawari",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/13_Himawari_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Himawari No Ie No Rondo",
+      "artist": "Takenaka Eri",
+      "has_synced": true,
+      "path": "select/14_Himawari_No_Ie_No_Rondo_Takenaka_Eri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HimAWArI",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/15_HimAWArI_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ひまわり [Himawari]",
+      "artist": "山崎ハコ (Hako Yamasaki)",
+      "has_synced": false,
+      "path": "select/16_ひまわり_[Himawari]_山崎ハコ_(Hako_Yamasaki).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "himawari",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_himawari_Mr.Children.txt"
+    }
+  ]
+}
